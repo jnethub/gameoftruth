@@ -233,5 +233,4 @@ exec skypeforlinux
 exec pidgin
 exec pasystray
 #exec remmina -i
-exec blueman-applet
 exec xfce4-power-manager
